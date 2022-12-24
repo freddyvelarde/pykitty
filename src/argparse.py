@@ -18,4 +18,5 @@ parser.add_argument("-a", "--all", action="store_true", help="change nvim and ki
 parser.add_argument("-t", "--theme", help="change global colorscheme")
 
 
+
 args = parser.parse_args()
