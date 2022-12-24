@@ -40,7 +40,7 @@ when you use --all argument, this will change the colorscheme in kitty and nvim 
 the same time.
 
 ```shell
-pykitty "--all --theme" tokyo
+pykitty --all --theme tokyo
 ```
 
 Unlike "--all" --vim only will switch the nvim colorscheme
